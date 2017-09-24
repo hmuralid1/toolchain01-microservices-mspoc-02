@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: mspoc02
+Implementation-Version: 1
+Built-By: murali
+Implementation-Vendor-Id: org.test
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/mspoc-02/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: demo.Application
+
