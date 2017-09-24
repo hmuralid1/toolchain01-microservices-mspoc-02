@@ -28,7 +28,7 @@ spec:
       nodePort: 30072
       port: 8082
       protocol: TCP
-      targetPort: 8082
+      targetPort: 8080
   selector: 
     run: mspoc02-demoapp
   type: NodePort
