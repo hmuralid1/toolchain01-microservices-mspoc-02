@@ -29,7 +29,7 @@ public class Application {
 		List<Team> list = new ArrayList<>();
 
 		Set<Player> set = new HashSet<>();
-		set.add(new Player("MSPOC02", "Showman"));
+		set.add(new Player("MSPOC02", "MSPOC02"));
 		set.add(new Player("Buckets", "Guard"));
 		set.add(new Player("Dizzy", "Guard"));
 		set.add(new Player("MS Dhoni", "Captain"));
