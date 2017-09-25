@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: mspoc02-demoapp-deployment
 spec:
-  replicas: 1
+  replicas: 2
   template:
     metadata:
       name: pod-mspoc02-demoapp
